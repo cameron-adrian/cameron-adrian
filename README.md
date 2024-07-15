@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey! 👋 I'm Cameron
+
+I currently work as a Developer Support Specialist III for Calendly and am actively working towards a developer role.
 
 <!--
 **cameron-adrian/cameron-adrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
