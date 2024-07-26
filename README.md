@@ -2,6 +2,12 @@
 
 I currently work as a Developer Support Specialist III at Calendly and am actively working towards a developer role.
 
+You can find me online here:
+<ul>
+<li><a href="https://www.linkedin.com/in/cameronadrian/">LinkedIn</a></li>
+<li><a href="https://cameron-adrian-portfolio.netlify.app/">Portfolio Website</a></li>
+</ul>
+
 <!--
 **cameron-adrian/cameron-adrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
