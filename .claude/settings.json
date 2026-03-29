@@ -1,0 +1,7 @@
+{
+  "enabledPlugins": {
+    "playwright@claude-plugins-official": {},
+    "explanatory-output-style@claude-plugins-official": {},
+    "frontend-design@claude-plugins-official": {}
+  }
+}
