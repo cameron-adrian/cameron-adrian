@@ -1,6 +1,6 @@
 ## Hey! 👋 I'm Cameron
 
-I currently work as a Developer Support Specialist III at Calendly and am actively working towards a developer role.
+I work as a Developer Support Specialist III at Calendly, currently expanding my technical skills with coding projects!
 
 You can find me online here:
 <ul>
